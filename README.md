@@ -20,3 +20,5 @@ contributions 및 git push(레포지스토리에 변동된 사항이 제대로 �
 이전에는 contributions만 반영되고 push 는 제대로 안됐는데(=잔디밭만 채워지고 코드가 올라가지 않음)
 
 저 방법으로 push하니 정상적으로 반영됨.
+
+추가) console 창에서 실행해야함!!!!!!!
