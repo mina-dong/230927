@@ -1,0 +1,11 @@
+modules = ["python-3.10:v18-20230807-322e88b"]
+
+hidden = [".pythonlibs"]
+run = "https://github.com/mina-dong/230927"
+
+[nix]
+channel = "stable-23_05"
+
+[deployment]
+run = ["sh", "-c", "https://github.com/mina-dong/230927"]
+deploymentTarget = "cloudrun"
